@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Norowind
-- 👀 I’m interested in Motion Design, Games and Storytelling
+- 👀 I’m interested in Motion Design, Game Dev and Storytelling
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on Unity game dev projects
 - 📫 Email me dmytro@legion-studio.com
